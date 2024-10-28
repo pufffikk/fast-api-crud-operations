@@ -1,5 +1,7 @@
 # Project Description: Adding `Course` Class and Relevant Endpoints
 
+You can run the project using the following command: uvicorn main:app --reload
+
 This project extends the existing Teacher Management API by adding a `Course` class, creating a one-to-many relationship where one teacher can be associated with multiple courses. The API will include CRUD operations for both `Teacher` and `Course`, allowing clients to manage teachers and their associated courses. For an example implementation for a one-to-many relationship, you can refer to this section in the documentation: https://docs.sqlalchemy.org/en/14/orm/tutorial.html#building-a-relationship
 
 ---
