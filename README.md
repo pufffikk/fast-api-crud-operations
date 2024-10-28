@@ -32,4 +32,7 @@ Update the Teacher class to include a relationship with Course. Add a courses at
 Make sure the courses assigned to a teacher are deleted when the teacher is deleted. For this feature you can check this section in the documentation: https://docs.sqlalchemy.org/en/14/orm/tutorial.html#deleting
 
 
+# FURTHER WORK:
+You can add Student class, which has a many-to-many relationship with the table Courses. You can add new endpoints and make sure the relationships are set up correctly.
+
 
