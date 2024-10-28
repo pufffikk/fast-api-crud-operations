@@ -33,6 +33,6 @@ Make sure the courses assigned to a teacher are deleted when the teacher is dele
 
 
 # FURTHER WORK:
-You can add Student class, which has a many-to-many relationship with the table Courses. You can add new endpoints and make sure the relationships are set up correctly.
+You can add Student class, which has a many-to-many relationship with the table Courses. You can add new endpoints and make sure the relationships between the entities are set up correctly.
 
 
