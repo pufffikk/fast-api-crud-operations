@@ -22,6 +22,7 @@ Update the Teacher class to include a relationship with Course. Add a courses at
 - Endpoint to Create a New Course for a Teacher: POST /teachers/{teacher_id}/courses/
 - Endpoint to Get All Courses of a Teacher: GET /teachers/{teacher_id}/courses/
 - Endpoint to Get a Specific Course by ID: GET /courses/{course_id}
+- Endpoint to Get the Assigned Teacher for a Course: GET /courses/{course_id}/teacher
 - Endpoint to Update a Course: PUT /courses/{course_id}
 - Endpoint to Delete a Course: DELETE /courses/{course_id}
 
